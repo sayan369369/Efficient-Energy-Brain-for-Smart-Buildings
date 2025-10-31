@@ -5,10 +5,15 @@
 **Team Members:**  
 - 🧠 **Jahar Kumar Paul (B2430049)** — Machine & Deep Learning  
 - 🤖 **Ayan Kumar Batabyal (B2530074)** — Reinforcement Learning  
-- 🔬 **Sayan Goswami (B2530098)** — Reinforcement Learning, System Integration  
+- 🔬 **Sayan Goswami (B2530098)** — Reinforcement Learning, System Integration
 
 ---
 
+## 📄 Project Report
+
+[📥 **Download Project Proposal (PDF)**](https://github.com/sayan369369/Efficient-Energy-Brain-for-Smart-Buildings/blob/main/Infinity_ProjectProposal.pdf)
+
+---
 ## 🌍 Overview
 
 > “We do not inherit the Earth from our ancestors; we borrow it from our children.” — *American Proverb*
